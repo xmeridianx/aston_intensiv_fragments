@@ -47,4 +47,11 @@ dependencies {
     testImplementation("junit:junit:4.13.2")
     androidTestImplementation("androidx.test.ext:junit:1.1.5")
     androidTestImplementation("androidx.test.espresso:espresso-core:3.5.1")
+    implementation ("androidx.fragment:fragment-ktx:1.3.0")
+
+    implementation("androidx.lifecycle:lifecycle-viewmodel-ktx:$2.6.2")
+
+    implementation("androidx.lifecycle:lifecycle-viewmodel-compose:$2.6.2")
+
+    implementation("androidx.lifecycle:lifecycle-livedata-ktx:$2.6.2")
 }

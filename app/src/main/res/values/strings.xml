@@ -10,4 +10,11 @@
     <string name="to_fragment_d">на фрагмент D</string>
     <string name="to_fragment_a">на фрагмент A</string>
     <string name="text">text</string>
+    <string name="name">Имя</string>
+    <string name="surname">Фамилия</string>
+    <string name="phoneNumber">Номер телефона</string>
+    <string name="save">Сохранить</string>
+    <string name="cancel">Отмена</string>
+    <string name="delete">Удалить</string>
+    <string name="id">Id</string>
 </resources>

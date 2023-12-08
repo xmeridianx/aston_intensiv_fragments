@@ -1,10 +1,11 @@
-package com.example.aston_intensiv_fragments
+package com.example.aston_intensiv_fragments.task1
 
 import android.os.Bundle
 import androidx.fragment.app.Fragment
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
+import com.example.aston_intensiv_fragments.R
 import com.example.aston_intensiv_fragments.databinding.FragmentABinding
 
 
